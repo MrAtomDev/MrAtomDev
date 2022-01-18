@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about SQL servers and DataBase
 - 📫 How to reach me on my Twitter: https://twitter.com/MrAtomOfficial1
 - 👾 I'm currently creating a new game called Mortal Run, you're invited: https://www.roblox.com/games/5108580930
-- I hope learning more ...
+- 📝 I hope learning more ...
+- 📜 I'm Roblox Developer.
 
 <!---
 MrAtomDev/MrAtomDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
